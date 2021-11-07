@@ -1,11 +1,10 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2021-11-7
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Memberikan pilihan solusi kepada UMKM ala developer.
+subtitle: 'Mengirim pesan marketing via WhatsApp minim penolakan.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Aplikasi gratis untuk membantu menyapa dan mengirimkan pesan marketing untuk personal, pelaku UMKM dan organisasi non profit.
 image: >-
   /assets/img/uploads/bojongsoang.jpeg
 optimized_image: >-
@@ -14,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: farispriadi
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
