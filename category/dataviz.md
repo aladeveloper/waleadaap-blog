@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Travel
-slug: travel
+title: Visualization
+slug: dataviz
 description: A category for travel related posts.
 ---
