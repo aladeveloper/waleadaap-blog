@@ -13,7 +13,7 @@ permalink: /waleadapp/
 
 ## Download
 
-[button url="https://drive.google.com/file/d/1Zk3DGFlCC3Tsi7A2vQp43ODEWmxCpdrO/view?usp=sharing"]
+[WALeadApp version 1.0]("https://drive.google.com/file/d/1Zk3DGFlCC3Tsi7A2vQp43ODEWmxCpdrO/view?usp=sharing")
 
 ## Tutorial
 
