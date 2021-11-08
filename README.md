@@ -92,7 +92,7 @@ Create the file `/assets/css/styles.scss` and add:
 ---
 ---
 
-$themeColor: #e3d307;
+$themeColor: #c2b404;
 $primaryDark: #141414;
 $accentDark: #ffffff;
 $lightGray: #f2f2f2;
