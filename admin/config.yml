@@ -278,7 +278,7 @@ collections:
           - label: "Theme Color"
             name: "themeColor"
             widget: "color"
-            default: "#ffee1b"
+            default: "#e3d307"
           - label: "Primary Dark Color"
             name: "primaryDark"
             widget: "color"
