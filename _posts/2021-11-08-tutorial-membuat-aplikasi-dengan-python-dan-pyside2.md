@@ -1,5 +1,5 @@
 ---
-date: 2018-04-21 12:26:40
+date: 2021-11-08 12:26:40
 layout: post
 title: Tutorial membuat aplikasi dengan Python dan PySide2
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.

@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2021-11-08 12:26:40
 layout: post
 title: Tutorial mengirim pesan menggunakan WALeadApp
 subtitle: Lebih mudah mengirim pesan masal dengan sapaan kepada penerima pesan.

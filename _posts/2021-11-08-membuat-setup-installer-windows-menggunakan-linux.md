@@ -1,5 +1,5 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2021-11-08 12:26:40
 layout: post
 title: Membuat-setup-installer-windows-menggunakan-linux
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
