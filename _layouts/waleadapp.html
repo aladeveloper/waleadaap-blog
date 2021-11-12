@@ -22,19 +22,19 @@ layout: page
       <fieldset>
         <input type="text" name="entry.2005620554" placeholder="{{ site.translations.contact.placeholders.name | default: 'Nama (wajib diisi)' }}" v-validate="'required'"
                :class="{ 'has-error': errors.has('entry.2005620554') }">
-        <span v-if="errors.has('entry.2005620554')" v-cloak>${ errors }</span>
+        <span v-if="errors.has('entry.2005620554')" v-cloak>${ errors.first('entry.2005620554') }</span>
 
         <input type="text" name="entry.1045781291" placeholder="{{ site.translations.contact.placeholders.email | default: 'Email (wajib diisi)' }}" v-validate="'required|email'"
-               :class="{ 'has-error': errors.has('email') }">
-        <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
+               :class="{ 'has-error': errors.has('entry.1045781291') }">
+        <span v-if="errors.has('entry.1045781291')" v-cloak>${ errors.first('entry.1045781291') }</span>
 
         <input type="text" name="entry.1166974658" placeholder="{{ site.translations.contact.placeholders.phone | default: 'No WA (wajib diisi)' }}" v-validate="'required'"
-               :class="{ 'has-error': errors.has('phone') }">
-        <span v-if="errors.has('phone')" v-cloak>${ errors.first('phone') }</span>
+               :class="{ 'has-error': errors.has('entry.1166974658') }">
+        <span v-if="errors.has('entry.1166974658')" v-cloak>${ errors.first('entry.1166974658') }</span>
 
         <textarea name="entry.1808876429" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Tujuan mengunduh WALeadApp (wajib diisi)' }}" v-validate="'required'"
-                  :class="{ 'has-error': errors.has('message') }"></textarea>
-        <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
+                  :class="{ 'has-error': errors.has('entry.1808876429') }"></textarea>
+        <span v-if="errors.has('entry.1808876429')" v-cloak>${ errors.first('entry.1808876429') }</span>
 
         <button type="submit">{{ site.translations.contact.submit_btn | default:  "Kirim" }}</button>
       </fieldset>
