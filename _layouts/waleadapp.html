@@ -13,31 +13,30 @@ layout: page
 
 <img class="img-rounded" src="/assets/img/uploads/waleadapp-round.png" alt="WALeadApp" width="200">
 
-
 <div class="container">
 
-  <h2>{{ site.translations.contact.title | default: "Download" }}</h2>
+  <h2>{{ site.translations.contact.title | default: "Saya Mau WALeadApp" }}</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{% if site.formspree_form_id %}f/{{ site.formspree_form_id }}{% else %}{{ site.email }}{% endif %}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSdUvdkn_-UBhLjwa8ZuXPF-xPpW8544qcS-mt94iR-L_1SaEQ/formResponse" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
-        <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
-        <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
-        <input type="hidden" name="_language" value="{{ site.language }}" />
-
-        <input type="text" name="name" placeholder="{{ site.translations.contact.placeholders.name | default: 'Your name' }}" v-validate="'required'"
+        <input type="text" name="entry.2005620554" placeholder="{{ site.translations.contact.placeholders.name | default: 'Nama wajib diisi' }}" v-validate="'required'"
                :class="{ 'has-error': errors.has('name') }">
         <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
 
-        <input type="text" name="email" placeholder="{{ site.translations.contact.placeholders.email | default: 'Your email' }}" v-validate="'required|email'"
+        <input type="text" name="entry.1045781291" placeholder="{{ site.translations.contact.placeholders.email | default: 'Email wajib diisi' }}" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Your message' }}" v-validate="'required'"
+        <input type="text" name="entry.1166974658" placeholder="{{ site.translations.contact.placeholders.phone | default: 'WA wajib diisi' }}" v-validate="'required'"
+               :class="{ 'has-error': errors.has('phone') }">
+        <span v-if="errors.has('phone')" v-cloak>${ errors.first('phone') }</span>
+
+        <textarea name="entry.1808876429" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Tujuan mengunduh WALeadApp' }}" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
-        <button type="submit">{{ site.translations.contact.submit_btn | default:  "Send" }}</button>
+        <button type="submit">{{ site.translations.contact.submit_btn | default:  "Kirim" }}</button>
       </fieldset>
     </form>
   </div>
@@ -65,6 +64,9 @@ const dictionary = {
       email: {
         required: "{{ site.translations.contact.errors.empty_email | default: 'Email is required' }}",
         email: "{{ site.translations.contact.errors.invalid_email | default: 'Email is invalid' }}"
+      },
+      phone: {
+        required: "{{ site.translations.contact.errors.empty_phone | default: 'Phone is required' }}"
       },
       message: {
         required: "{{ site.translations.contact.errors.empty_message | default: 'Message is required' }}"

@@ -427,15 +427,19 @@ collections:
                 name: "placeholders"
                 widget: "object"
                 fields:
-                  - label: "Your Name"
+                  - label: "Nama Anda"
                     name: "name"
                     widget: "string"
                     required: false
-                  - label: "Your Email"
+                  - label: "Email Anda"
                     name: "email"
                     widget: "string"
                     required: false
-                  - label: "Your Message"
+                  - label: "WA Anda"
+                    name: "phone"
+                    widget: "string"
+                    required: false
+                  - label: "Tujuan Download WALeadApp"
                     name: "message"
                     widget: "string"
                     required: false
@@ -462,6 +466,11 @@ collections:
                     name: "invalid_email"
                     widget: "string"
                     hint: "Ex: Email is invalid"
+                    required: false
+                  - label: "Empty Phone"
+                    name: "empty_phone"
+                    widget: "string"
+                    hint: "Ex: Insert your WA number"
                     required: false
                   - label: "Empty Message"
                     name: "empty_message"
