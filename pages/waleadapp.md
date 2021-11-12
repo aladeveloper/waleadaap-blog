@@ -5,13 +5,7 @@ description: WALeadApp by aladeve.
 permalink: /waleadapp/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/waleadapp-round.png" alt="WALeadApp" width="200">
-
-# WALeadApp,
-
-![placeholder](/assets/img/uploads/waleadapp-main.png "Tampilan Utama WALeadApp")
-
-## Download
+{% if site.email or site.formspree_form_id %}
 
 <style type="text/css" media="screen">
   .container {
@@ -22,10 +16,10 @@ permalink: /waleadapp/
 
 <div class="container">
 
-  <h2>{{ site.translations.contact.title | default: "Download" }}</h2>
+  <h2>{{ site.translations.contact.title | default: "Talk to me" }}</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="#" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{% if site.formspree_form_id %}f/{{ site.formspree_form_id }}{% else %}{{ site.email }}{% endif %}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
@@ -102,6 +96,13 @@ new Vue({
 
 {% endif %}
 
+<img class="img-rounded" src="/assets/img/uploads/waleadapp-round.png" alt="WALeadApp" width="200">
+
+# WALeadApp,
+
+![placeholder](/assets/img/uploads/waleadapp-main.png "Tampilan Utama WALeadApp")
+
+## Download
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdUvdkn_-UBhLjwa8ZuXPF-xPpW8544qcS-mt94iR-L_1SaEQ/viewform?embedded=true" width="640" height="709" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
