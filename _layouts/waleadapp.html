@@ -30,7 +30,7 @@ layout: page
 
         <input type="text" name="entry.1166974658" placeholder="{{ site.translations.contact.placeholders.phone | default: 'No WA (wajib diisi)' }}" v-validate="'required'"
                :class="{ 'has-error': errors.has('entry.1166974658') }">
-        <span v-if="errors.has('entry.1166974658')" v-cloak>${ errors.first('entry.1166974658') }</span>
+        <span v-if="errors.has('entry.1166974658')" v-cloak>${ errors }</span>
 
         <textarea name="entry.1808876429" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Tujuan mengunduh WALeadApp (wajib diisi)' }}" v-validate="'required'"
                   :class="{ 'has-error': errors.has('entry.1808876429') }"></textarea>
