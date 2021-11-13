@@ -21,12 +21,12 @@ layout: page
     <form accept-charset="UTF-8" method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSdUvdkn_-UBhLjwa8ZuXPF-xPpW8544qcS-mt94iR-L_1SaEQ/formResponse" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
         <input type="text" name="entry.2005620554" placeholder="{{ site.translations.contact.placeholders.name | default: 'Nama (wajib diisi)' }}" v-validate="'required'"
-               :class="{ 'has-error': errors.has('entry.2005620554') }">
-        <span v-if="errors.has('entry.2005620554')" v-cloak>${ errors.first('entry.2005620554') }</span>
+               :class="{ 'has-error': errors.has('2005620554') }">
+        <span v-if="errors.has('2005620554')" v-cloak>${ errors.first('2005620554') }</span>
 
         <input type="text" name="entry.1045781291" placeholder="{{ site.translations.contact.placeholders.email | default: 'Email (wajib diisi)' }}" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('entry.1045781291') }">
-        <span v-if="errors.has('entry.1045781291')" v-cloak>${ errors.first('name') }</span>
+        <span v-if="errors.has('entry.1045781291')" v-cloak>${ errors.first('entry.1045781291') }</span>
 
         <input type="text" name="entry.1166974658" placeholder="{{ site.translations.contact.placeholders.phone | default: 'No WA (wajib diisi)' }}" v-validate="'required'"
                :class="{ 'has-error': errors.has('entry.1166974658') }">
@@ -58,7 +58,7 @@ Vue.use(VeeValidate);
 const dictionary = {
   {{ site.translations.contact.errors.locale | default: 'en' }}: {
     custom: {
-      name: {
+      2005620554: {
         required: "{{ site.translations.contact.errors.empty_name | default: 'Name is required' }}"
       },
       email: {
