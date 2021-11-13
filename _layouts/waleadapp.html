@@ -22,7 +22,7 @@ layout: page
       <fieldset>
         <input type="text" name="entry.2005620554" placeholder="{{ site.translations.contact.placeholders.name | default: 'Nama (wajib diisi)' }}" v-validate="'required'"
                :class="{ 'has-error': errors.has('entry.2005620554') }">
-        <span v-if="errors.has('entry.2005620554')" v-cloak>${ errors.first('entry.2005620554') }</span>
+        <span v-if="errors.has('entry.2005620554')" v-cloak>Test</span>
 
         <input type="text" name="entry.1045781291" placeholder="{{ site.translations.contact.placeholders.email | default: 'Email (wajib diisi)' }}" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('entry.1045781291') }">
