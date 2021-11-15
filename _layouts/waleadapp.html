@@ -32,7 +32,7 @@ layout: page
                :class="{ 'has-error': errors.has('entry.1166974658') }">
         <span v-if="errors.has('entry.1166974658')" v-cloak>${ errors.first('entry.1166974658') }</span>
 
-        <textarea name="entry.1808876429" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Ceritakan mengapa Anda perlu WALeadApp (wajib diisi)' }}" v-validate="'required'"
+        <textarea name="entry.1808876429" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Untuk keperluan apa Anda memakai WALeadApp ? (wajib diisi)' }}" v-validate="'required'"
                   :class="{ 'has-error': errors.has('entry.1808876429') }"></textarea>
         <span v-if="errors.has('entry.1808876429')" v-cloak>${ errors.first('entry.1808876429') }</span>
 
