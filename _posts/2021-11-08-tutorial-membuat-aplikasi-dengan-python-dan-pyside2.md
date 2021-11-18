@@ -4,8 +4,10 @@ layout: post
 title: Tutorial membuat aplikasi dengan Python dan PySide2
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
+image: >-
+  /assets/img/uploads/waleadapp.png
+optimized_image: >-
+  /assets/img/uploads/waleadapp.png
 category: python
 tags:
   - tutorial
