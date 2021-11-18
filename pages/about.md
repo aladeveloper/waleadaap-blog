@@ -5,7 +5,7 @@ description: Tentang Penulis.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpeg" alt="Faris Priadi" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Faris Priadi" width="200">
 
 # Hai, Saya Faris
 
