@@ -1,7 +1,7 @@
 ---
 date: 2021-11-25 20:26:40
 layout: post
-title: WALeadApp : Asisten Pengirim Pesan Ke Nomor Tertarget Anda
+title: Asisten Pengirim Pesan Ke Nomor Tertarget Anda bernama WALeadApp
 subtitle: WALeadApp membantu mengirim pesan  ke banyak nomor yang disesuaikan dengan kebutuhan penerimanya.
 description: WALeadApp membantu mengirim pesan  ke banyak nomor yang disesuaikan dengan kebutuhan penerimanya.
 image: >-
