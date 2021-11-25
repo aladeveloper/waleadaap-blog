@@ -45,9 +45,9 @@ Jika aplikasi ini bermanfaat atau ada saran/kritik, Anda bisa menghubungi  saya 
 
 
 Salam 
-Faris Priadi
+<a href="http://aladeve.com/about">Faris Priadi</a>
 farispriadi@gmail.com
-aladeve.com
+
 
 
 

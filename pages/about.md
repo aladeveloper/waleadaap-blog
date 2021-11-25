@@ -9,10 +9,13 @@ permalink: /about/
 
 # Hai, Saya Faris
 
-Punya masalah atau melihat masalah ? 
+Selamat datang di aladeve.com
+Terima kasih sudah menyempatkan ke halaman About.
 
-Jangan-jangan peluang ?
+Anda dapat menghubungi saya melalui email
 
-Aladeve memposisikan diri untuk menemukan solusi terhadap masalah yang ditemui sehari-hari, tentu saja dengan batas kemampuan penulis. Solusinya juga belum tentu nemu, klo udah mencari solusi biasanya nemu potensi solusi baru atau masalah baru alias peluang baru.
+*farispriadi[at]gmail.com*
 
-Hehehe... Sudah segitu aja.
+bisa juga via Github atau LinkedIn melalui icon-icon kecil di bawah. 
+
+Salam
