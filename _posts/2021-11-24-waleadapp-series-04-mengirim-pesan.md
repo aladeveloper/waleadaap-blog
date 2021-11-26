@@ -24,7 +24,6 @@ Ketika konten sudah siap (Data kontak dan Template), kini Anda perlu mengirimnya
 Fitur ini mirip dengan fitur broadcast pada WhatsApp, hanya saja berjalan di laptop/komputer Anda. 
 
 Nah setelah Anda mengklik menu **Send**, maka jika Anda pertama kali menggunakan WALeadApp akan muncul dialog untuk meminta Anda mendownload webdriver. 
-![placeholder](/assets/img/uploads/send.png "Icon Send")
 
 Webdriver diperlukan untuk mengontrol browser Anda secara otomatis  melalui aplikasi WALeadApp.  Silakan klik **Download**.
 ![placeholder](/assets/img/uploads/webdriver.png "Download Webdriver")
