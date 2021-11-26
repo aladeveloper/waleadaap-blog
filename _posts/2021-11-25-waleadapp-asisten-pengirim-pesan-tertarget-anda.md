@@ -52,10 +52,9 @@ Semoga aplikasi ini dapat membantu Anda tertutama di sektor Layanan Publik dan P
 Jika aplikasi ini bermanfaat atau ada saran/kritik, Anda bisa menghubungi  saya via Email. Terima Kasih.
 
 
-
 Salam 
-<a href="http://aladeve.com/about">Faris Priadi</a>
-farispriadi@gmail.com
+
+<a href="http://aladeve.com/about">Faris Priadi</a> 
 
 
 
