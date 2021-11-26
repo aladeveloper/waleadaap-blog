@@ -30,13 +30,15 @@ Langsung saja kita bahas ya..
 "Apa saja yang diperlukan sebelum menginstall WALeadApp?"
 
 
-Kira-kira itu maksudnya.Jadi 3 Hal yang hasrus dipersiapkan agar proses instalasi dan penggunaan WALeadApp lancar.
+Kira-kira itu maksudnya.Jadi 3 Hal yang harus dipersiapkan agar proses instalasi dan penggunaan WALeadApp lancar.
 1. Punya akun WhatsApp atau nomor yang terdaftar sebagai pengguna WhatsApp
 2. Laptop dengan Sistem Operasi Windows 7 atau Windows 10
-3. Installer WALeadApp
+3. Browser Google Chrome 
 
 
-Untuk poin 1 dan 2 saya serahkan kepada masing-masing ya. Untuk poin ketiga yaitu Installer WALeadApp bisa didapatkan <a href="http://aladeve.com/waleadapp">di sini </a>> **GRATIS**.
+Installer WALeadApp bisa didapatkan melalui link di bawah **GRATIS**.
+
+### <a href="http://aladeve.com/waleadapp">INSTALLER WALEADAPP 2.0</a>
 
 ![placeholder](/assets/img/uploads/request_download2.png "Halaman Download")
 
