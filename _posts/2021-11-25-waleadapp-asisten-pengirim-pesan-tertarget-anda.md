@@ -24,10 +24,11 @@ WALeadApp membantu mengirim pesan ke banyak nomor yang disesuaikan dengan kebutu
 
 Dengan WALeadApp kirim broadcast namun terasa manual atau privat. Anda bisa tambahkan sapaan dan nama dalam template pesan Anda agar penerima pesan Anda lebih memperhatikan apa yang akan Anda sampaikan. 
 
-![placeholder](/assets/img/uploads/emoji2.png "Template Pesan")
+![placeholder](/assets/img/uploads/nasi_goreng_dua_warna.png "Template Pesan")
 
 WALeadApp dikembangkan atas alasan pribadi. Karena seringnya ditugasi untuk mengirim broadcast message WA namun terasa kurang sopan dan males untuk copy-paste-edit chat satu per satu...hehehe...
 
+![placeholder](/assets/img/uploads/nasi_goreng_dua_warna2.png "Pesan Terkirim")
 
 WALeadApp **GRATIS** digunakan untuk kepentingan Anda. Kami tidak bertanggung jawab atas resiko penggunaan WALeadApp tiap pengguna. Kami hanya menyediakan layanan yang dapat membantu dan menghimbau untuk menggunakannya secara bijaksana. Terutama dalam melakukan broadcast, pastikan nomor yang Anda kirim  mengenal Anda dan tidak terganggu. Karena resikonya Anda dapat di blokir karena melakukan **spamming**. WALeadApp sangat tidak setuju dengan tindakan **SPAMMING**.
 
