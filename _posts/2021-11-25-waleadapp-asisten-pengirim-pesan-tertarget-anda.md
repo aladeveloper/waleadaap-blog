@@ -47,6 +47,8 @@ Anda bisa download Installer WALeadApp di <a href="http://aladeve.com/waleadapp"
 
 Alhamdulillah WALeadApp sudah bisa memperbaiki bug-bug dan sudahh release versi 2.0 dengan tampilan yang kami harap lebih fresh dari versi 1.0.
 
+### <a href="http://aladeve.com/category/waleadapp/">LINK TUTORIAL WALEADAPP 2.0</a>
+
 Semoga aplikasi ini dapat membantu Anda tertutama di sektor Layanan Publik dan Pelaku UMKM terutama untuk menghadapi Post Pandemi.
 
 Jika aplikasi ini bermanfaat atau ada saran/kritik, Anda bisa menghubungi  saya via Email. Terima Kasih.
