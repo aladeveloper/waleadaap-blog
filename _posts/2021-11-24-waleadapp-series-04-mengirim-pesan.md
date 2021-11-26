@@ -43,3 +43,5 @@ Anda bisa meminimize browser Google Chrome Anda sehingga Anda bisa melakukan hal
 Jika Anda akan melakukan Stop pengiriman di tengah proses. Anda dapat mengklik icon Stop.
 
 Bagitulah cara untuk mengirim pesan menggunakan WALeadApp. Sesi terakhir adalah cara melihat Laporan Pengiriman dan Mengekspor Laporan .
+
+- some icon made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> 

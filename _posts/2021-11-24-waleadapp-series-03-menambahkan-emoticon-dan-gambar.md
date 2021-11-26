@@ -42,3 +42,5 @@ Klik icon clip lagi untuk  menutupnya.
 Sangat mudah menambahkan Emoticon dan Gambar pada Template Pesan menggunakan  WALeadApp. 
 Nah di post selanjutnya kita akan mulai mengirim pesannya ya....
 
+- some icon made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> 
+

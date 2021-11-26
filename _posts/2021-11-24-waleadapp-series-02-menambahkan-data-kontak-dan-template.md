@@ -81,3 +81,4 @@ Sebagai contoh, hasil akhir template akan seperti gambar di bawah ini.
 Nah...mudah bukan ? Membuat Template Pesan di WALeadApp ?
 Selanjutnya kita akan mempercantik Pesan dengan Emoticon dan Gambar.
 
+- some icon made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> 

@@ -76,5 +76,5 @@ Selanjutnya kita akan mencoba :
 * Membuat Template pesan sesuai dengan kolom di data kontak.
 
 
-
+- some icon made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> 
 
