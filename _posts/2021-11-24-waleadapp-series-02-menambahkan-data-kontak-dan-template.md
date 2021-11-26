@@ -68,7 +68,7 @@ Sebagai gambaran,Anda bisa lihat gambar di bawah.
 
 ![placeholder](/assets/img/uploads/template_pesan.png "Menyematkan Nama Kolom ke Template")
 
-kita bisa memilih kolom mana yang akan kita masukkan dalam Template Pesan dengan menggunakan shortcut *CTRL+SPASI*.
+kita bisa memilih kolom mana yang akan kita masukkan dalam Template Pesan dengan menggunakan shortcut *CTRL+SPASI*. Jika Anda mengalami masalah dengan shortcut *CTRL+SPASI*, Anda bisa mengetikkannya manual dengan format *nama kolom* diapit oleh kurung kurawal *{}*, contohnya untuk menyematkan isi dari kolom **nama** maka penulisannya menjadi **Halo {nama}**.
 
 
 Sisanya Anda bisa sesuaikan dengan kebutuhan konten yang akan Anda kirim.
