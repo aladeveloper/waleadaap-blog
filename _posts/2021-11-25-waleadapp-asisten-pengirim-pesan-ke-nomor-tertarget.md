@@ -1,7 +1,7 @@
 ---
 date: 2021-11-25 20:26:40
 layout: post
-title: Asisten Pengirim Pesan Ke Nomor Tertarget Anda bernama WALeadApp
+title: WALeadApp, Asisten Pengirim Pesan Ke Nomor Tertarget
 subtitle: WALeadApp membantu mengirim pesan  ke banyak nomor yang disesuaikan dengan kebutuhan penerimanya.
 description: WALeadApp membantu mengirim pesan  ke banyak nomor yang disesuaikan dengan kebutuhan penerimanya.
 image: >-
@@ -26,19 +26,15 @@ Dengan WALeadApp kirim broadcast namun terasa manual atau privat. Anda bisa tamb
 
 ![placeholder](/assets/img/uploads/nasi_goreng_dua_warna.png "Template Pesan")
 
-WALeadApp dikembangkan atas alasan pribadi. Karena seringnya ditugasi untuk mengirim broadcast message WA namun terasa kurang sopan dan males untuk copy-paste-edit chat satu per satu...hehehe...
 
 ![placeholder](/assets/img/uploads/nasi_goreng_dua_warna2.png "Pesan Terkirim")
 
 WALeadApp **GRATIS** digunakan untuk kepentingan Anda. Kami tidak bertanggung jawab atas resiko penggunaan WALeadApp tiap pengguna. Kami hanya menyediakan layanan yang dapat membantu dan menghimbau untuk menggunakannya secara bijaksana. Terutama dalam melakukan broadcast, pastikan nomor yang Anda kirim  mengenal Anda dan tidak terganggu. Karena resikonya Anda dapat di blokir karena melakukan **spamming**. WALeadApp sangat tidak setuju dengan tindakan **SPAMMING**.
 
-**Segmentasi yang WALeadApp coba masuki adalah** 
+**WALeadApp sangat COCOK digunakan oleh** 
 * Pelaku UMKM
 * Layanan Publik
 * Personal
-
-
-**WALeadApp sangat COCOK untuk Anda yang hanya sesekali saja melakukan pengiriman masal**
 
 Anda bisa download Installer WALeadApp di <a href="http://aladeve.com/waleadapp">sini</a> . Anda memerlukan **Windows 7 atau Windows 10** dan **Google Chrome** untuk menjalankan aplikasi WALeadApp.
 
